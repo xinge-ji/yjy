@@ -72,7 +72,7 @@ markdown_extensions:
 nav:
   - 研究院介绍: index.md
   - 流程自动化: 
-    - rpa/index.md
+    - 什么是RPA？: rpa/index.md
   - 指标体系: 
     - kpi/index.md
   - 数据分析:
