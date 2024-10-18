@@ -73,6 +73,10 @@ nav:
   - 研究院介绍: index.md
   - 流程自动化: 
     - 什么是RPA？: rpa/index.md
+    - 研究院的服务: rpa/yjy.md
+    - 案例展示:
+      - 四川药械平台汇款明细下载: rpa/sichuancaiwu.md
+      - 冷链验证报告生成: rpa/lenglianwendang.md
   - 指标体系: 
     - kpi/index.md
   - 数据分析:
