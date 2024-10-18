@@ -1,5 +1,3 @@
-## 研究院的能力
-
 <div class="result" markdown>
 
 ![Image title](assets/images/rpa-1.png){ align=right width=500 }

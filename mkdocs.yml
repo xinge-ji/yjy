@@ -1,10 +1,8 @@
-site_name: 研究院
+site_name: 鷺燕研究院
 site_url: https://mydomain.org/yjy
 theme:
   name: material
   language: zh
-  icon:
-    logo: material/library
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -75,7 +73,7 @@ nav:
     - 什么是RPA？: rpa/index.md
     - 研究院的服务: rpa/yjy.md
     - 案例展示:
-      - 四川药械平台汇款明细下载: rpa/sichuancaiwu.md
+      - 四川药械平台明细下载: rpa/sichuancaiwu.md
       - 冷链验证报告生成: rpa/lenglianwendang.md
   - 指标体系: 
     - kpi/index.md
