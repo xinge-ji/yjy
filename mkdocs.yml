@@ -84,6 +84,7 @@ nav:
       - 质管冷链验证报告生成: rpa/lenglian.md
   - 管理驾驶舱: 
     - 数据指标体系: kpi/index.md
+    - 研究院的服务: kpi/yjy.md
   - 数据分析:
-    - analysis/index.md
+    - 九个基础数据分析方法: analysis/index.md
 
