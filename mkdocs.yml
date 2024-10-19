@@ -16,6 +16,7 @@ theme:
 plugins:
   - search
   - blog
+  - mkdocs_quiz
 markdown_extensions:
   - tables
   - abbr
@@ -70,7 +71,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: 联系人：陈弢
+copyright: 合作联系人：陈弢
 
 # Page tree
 nav:
@@ -80,9 +81,9 @@ nav:
     - 研究院的服务: rpa/yjy.md
     - 案例展示:
       - 四川药械平台明细下载: rpa/sichuancaiwu.md
-      - 冷链验证报告生成: rpa/lenglianwendang.md
-  - 指标体系: 
-    - kpi/index.md
+      - 质管冷链验证报告生成: rpa/lenglian.md
+  - 管理驾驶舱: 
+    - 数据指标体系: kpi/index.md
   - 数据分析:
     - analysis/index.md
 
