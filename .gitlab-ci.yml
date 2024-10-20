@@ -4,6 +4,7 @@ pages:
   script:
     - pip install mkdocs-material
     - pip install mkdocs_quiz
+    - pip install jieba
     - mkdocs build --site-dir public
   artifacts:
     paths:

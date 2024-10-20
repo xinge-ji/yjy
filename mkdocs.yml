@@ -2,6 +2,17 @@ site_name: 鷺燕研究院
 site_url: https://mydomain.org/yjy
 theme:
   name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: 切换到暗色模式
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换到光照模式
   language: zh
   features:
     - navigation.instant
@@ -14,7 +25,8 @@ theme:
     - search.suggest
     - search.highlight
 plugins:
-  - search
+  - search:
+      separator: '[\s\u200b\-]'
   - blog
   - mkdocs_quiz
 markdown_extensions:
@@ -71,7 +83,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: 合作联系人：陈弢
+copyright: 联系人：陈弢
 
 # Page tree
 nav:
@@ -83,8 +95,10 @@ nav:
       - 四川药械平台明细下载: rpa/sichuancaiwu.md
       - 质管冷链验证报告生成: rpa/lenglian.md
   - 管理驾驶舱: 
-    - 数据指标体系: kpi/index.md
+    - 驾驶舱的作用: kpi/index.md
+    - 数据指标体系: kpi/kpi.md
+    - 指标评价标准: kpi/judgement.md
+    - 基本分析方法: kpi/analysis.md
     - 研究院的服务: kpi/yjy.md
-  - 数据分析:
-    - 九个基础数据分析方法: analysis/index.md
+
 
