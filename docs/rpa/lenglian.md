@@ -19,6 +19,11 @@
   <figcaption>流程优化对比</figcaption>
 </figure>
 
+<figure markdown="span">
+  ![Image title](../assets/images/lenglian-3.png){ width="800" }
+  <figcaption>使用情况</figcaption>
+</figure>
+
 ## 1. 业务流程的梳理与分析
 
 在项目实施的初期，我们与公司的质管人员进行了深入的沟通，并多次在现场观察他们的工作流程，同时倾听他们的需求和痛点。通过几天的学习和讨论，我们总结了以下几个关键要点，以便为项目设计更高效的解决方案：
