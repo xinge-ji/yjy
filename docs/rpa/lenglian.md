@@ -15,14 +15,15 @@
 </figure>
 
 <figure markdown="span">
+  ![Image title](../assets/images/lenglian-3.png){ width="800" }
+  <figcaption>使用次数统计</figcaption>
+</figure>
+
+<figure markdown="span">
   ![Image title](../assets/images/lenglian-2.png){ width="800" }
   <figcaption>流程优化对比</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Image title](../assets/images/lenglian-3.png){ width="800" }
-  <figcaption>使用情况</figcaption>
-</figure>
 
 ## 1. 业务流程的梳理与分析
 
